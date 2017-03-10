@@ -1,0 +1,22 @@
+PHP   thinkphp  
+ 
+java 
+
+
+网页的内容区  取像素尽量取双数。浏览器的渲染
+
+特殊字体 浏览器默认的文字只有宋体 楷体 黑体 
+window 微软雅黑  mac 华文中宋
+
+英文特殊字体  26个字母  为浏览器font-face只要几KB
+
+如果是中文字体  3000个  一个字体库几M，十几M，甚至几十M   会涉及到版权   华文  个人免费使用  商业化 
+
+文字大小，正文不能有小于12px的字体。一般浏览器最小字体只支持12px   10px css-10px  ->12px
+
+特殊情况下的装饰。
+
+Microsoft OfficeWindows 8SkypeSurface User Guide
+
+
+
